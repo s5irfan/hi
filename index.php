@@ -1,19 +1,5 @@
 <!doctype html>
 <html><head><title>Lyft Product Challenge</title><meta charset="UTF-8"><link href="http://fonts.googleapis.com/css?family=Crimson+Text:400,400italic,700,700italic|Roboto:400,700,700italic,400italic" rel="stylesheet" type="text/css"><style>/*
- * Copyright 2014 Quip
- *
- * Licensed under the Apache License, Version 2.0 (the "License"); you may
- * not use this file except in compliance with the License. You may obtain
- * a copy of the License at
- *
- *     http://www.apache.org/licenses/LICENSE-2.0
- *
- * Unless required by applicable law or agreed to in writing, software
- * distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
- * WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
- * License for the specific language governing permissions and limitations
- * under the License.
- */
 
 body {
     font-size: 15px;
@@ -383,13 +369,13 @@ div[data-section-style="19"] .image-mask {
 }
 </style></head><body><h1 id='fEaACAlozHd'>Lyft Product Challenge</h1>
 
-<h2 id='fEaACAaj33z'>Problem Definition </h2>
+<h2 id='fEaACAaj33z'>Problem Definition </h2>
 
 <div data-section-style='19'><div class='image-mask' style='width:800px; height:337px; border-radius: 0.000px'><img src='https://quip.com/blob/fEaAAAyb1sf/Z52vXJM1imAqz96npYLOrQ?a=yffjKndaiFpBWo07XxvWyURjD1Yf0IJVf2omEcUylNYa' style='transform: scale3d(1.000, 1.000, 1); -webkit-transform: scale3d(1.000, 1.000, 1); -ms-transform: scale3d(1.000, 1.000, 1); -moz-transform: scale3d(1.000, 1.000, 1)' id='fEaACAdY1jI' alt='' width='800' height='337' class='masked-image'></img></div></div><br/>
 
 <br/>
 
-Commuting to work can be very time consuming and expensive to most passengers who ride a train or bus to get to work everyday. From my personal experience, this is the hardest part of the day, commuting for long hours and by the time you get home its almost time to sleep. The routine starts with you have to wake up early in the morning to catch the train and god forbid you miss your train there goes another 30 minutes waiting for the train and now you are most definitely late for work. On average, I pay about $555 per month to get to work. It takes $60/month to drive from my house to the train station and parking at the train station costs $180/month. It takes about $315/month to travel all the way to work. Finally, it takes about 5-7 minutes walking to my work place. <br/>
+Commuting to work can be very time consuming and expensive to most passengers who ride a train or bus to get to work every day. From my personal experience, this is the hardest part of the day, commuting for long hours and by the time you get home its almost time to sleep. The routine starts with you having to wake up early in the morning to catch the train and god forbid you miss your train there goes another 30 minutes waiting for the train and now you are most definitely late for work. On average, I pay about $555 per month to get to work. It takes $60/month to drive from my house to the train station and parking at the train station costs $180/month. It takes about $315/month to travel all the way to work. Finally, it takes about 5-7 minutes walking to my work place. <br/>
 
 <br/>
 
@@ -397,11 +383,11 @@ Commuting to work can be very time consuming and expensive to most passengers wh
 
 <br/>
 
-American households spent an average of $9,503 on transit needs in <a href="https://www.bls.gov/opub/reports/consumer-expenditures/2015/home.htm">2015</a>, the most recent year for which the Bureau of Labor Statistics published its comprehensive survey of consumer expenditures. This a ridiculous  amount of money spent on just transportations. How can we reduce the amount of money spent on transportation?<br/>
+American households spent an average of $9,503 on transit needs in <a href="https://www.bls.gov/opub/reports/consumer-expenditures/2015/home.htm">2015</a>, the most recent year for which the Bureau of Labor Statistics published its comprehensive survey of consumer expenditures. This is a ridiculous  amount of money spent on just transportation. How can we reduce the amount of money spent on transportation?<br/>
 
 <h2 id='fEaACArUBw0'><b>Solution - Lyft Reliable Drivers Program</b></h2>
 
-The purpose of the Lyft Reliable Drivers Program<b> </b>is to bring cheap rides to people who commute to work every day. We need to have dedicated drivers that are willing to drive passengers to their work places regularly. This is where Lyft can be helpful and provide passengers with cheap rides and guaranteeing drivers a steady income. These passengers are looking for committed long term drivers who they can rely on for a ride. <br/>
+The purpose of the Lyft Reliable Drivers Program<b> </b>is to bring cheap rides to people who commute to work every day. We need to have dedicated drivers that are willing to drive passengers to their work places regularly. This is where Lyft can be helpful and provide passengers with cheap rides and guaranteeing drivers a steady income. These passengers are looking for committed long term drivers who they can rely on for a ride. <br/>
 
 <br/>
 
@@ -411,7 +397,7 @@ As a passenger of this program I will be able to save $415. As a driver I will b
 
 <h2 id='fEaACAIb8el'>Types of Users</h2>
 
-There will be two main users of the app drivers and passengers. These users will be the frequent users of the application. The feature design will primarily solve needs of the users below: <br/>
+There will be two main users of the app drivers and passengers. These users will be frequent users of the application. The feature design will primarily solve needs of the users below: <br/>
 
 <br/>
 
@@ -423,23 +409,23 @@ There will be 3 types of passengers:<br/>
 
 <br/>
 
-<b>Students: </b>These<b> </b>users<b> </b>will typically have fixed timings and can use a scheduled driver. These users can be divided into 5 categories:<br/>
+<b>Students: </b>These<b> </b>users<b> </b>will typically have fixed timings and can use a scheduled driver. These users can be divided into 5 categories:<br/>
 
-<div data-section-style='6'><ul id='fEaACA2sVes'><li id='fEaACAOjBtw' class='' value='1'>Preschool 
+<div data-section-style='6'><ul id='fEaACA2sVes'><li id='fEaACAOjBtw' class='' value='1'>Preschool 
 
 <br/></li><li id='fEaACAconKh' class=''>Elementary School
 
-<br/></li><li id='fEaACAxruwi' class=''>Middle School 
+<br/></li><li id='fEaACAxruwi' class=''>Middle School 
 
 <br/></li><li id='fEaACAyKnk6' class=''>High School
 
 <br/></li><li id='fEaACAUnOs4' class=''>University
 
-<br/></li></ul></div><b>Part Time Workers</b> - These users will have variation in their timings. Having a weekly scheduled driver would be beneficial to them, as their scheduled cannot be predicted easily.<br/>
+<br/></li></ul></div><b>Part Time Workers</b> - These users will have variation in their timings. Having a weekly scheduled driver would be beneficial to them, as their scheduled cannot be predicted easily.<br/>
 
 <br/>
 
-<b>Drivers</b> - These users will be committed drivers who are willing to take passengers on scheduled rides.<br/>
+<b>Drivers</b> - These users will be committed drivers who are willing to take passengers on scheduled rides.<br/>
 
 <h2 id='fEaACAP4s4M'><b>Product Requirements</b></h2>
 
@@ -453,7 +439,7 @@ The table below summarizes the MVP and priority for each feature which has been 
 
 <br/></li><li id='fEaACAj3G35' class=''><i>How much value will the feature bring to the customer?</i>
 
-<br/></li><li id='fEaACAifsHw' class=''> <i>How risky is this feature? </i>
+<br/></li><li id='fEaACAifsHw' class=''> <i>How risky is this feature? </i>
 
 <br/></li></ul></div><div data-section-style='13'><table id='fEaACAaw1dI' title='Sheet2' style='width: 26.3333em'><thead><tr><th id='fEaACAQlFcK'  style='width: 4.26667em'>Priority
 
@@ -461,7 +447,7 @@ The table below summarizes the MVP and priority for each feature which has been 
 
 <br/></th></tr></thead><tbody><tr id='fEaACA4OvxK'><td id='s:fEaACA4OvxK;fEaACAOMk2x' style=''>1
 
-<br/></td><td id='s:fEaACA4OvxK;fEaACApo5lB' style=''>Passengers should be able to check pricing of scedueled rides
+<br/></td><td id='s:fEaACA4OvxK;fEaACApo5lB' style=''>Passengers should be able to check pricing of scheduled rides
 
 <br/></td></tr><tr id='fEaACAXJUrq'><td id='s:fEaACAXJUrq;fEaACAOMk2x' style=''>2
 
@@ -469,7 +455,7 @@ The table below summarizes the MVP and priority for each feature which has been 
 
 <br/></td></tr><tr id='fEaACA64P1f'><td id='s:fEaACA64P1f;fEaACAOMk2x' style=''>3
 
-<br/></td><td id='s:fEaACA64P1f;fEaACApo5lB' style=''>Drivers should be able to see a list of passengers 
+<br/></td><td id='s:fEaACA64P1f;fEaACApo5lB' style=''>Drivers should be able to see a list of passengers 
 
 <br/></td></tr><tr id='fEaACAS4hnc'><td id='s:fEaACAS4hnc;fEaACAOMk2x' style=''>4
 
@@ -481,11 +467,11 @@ This section outlines features that requires tasks that must be completed by the
 
 <br/>
 
-The user story map outlines the process a passengers takes to request for scheduled rides and drivers process of accepting these rides<br/>
+The user story map outlines the process a passenger takes to request for scheduled rides and drivers process of accepting these rides<br/>
 
 <div data-section-style='19'><div class='image-mask' style='width:800px; height:668px; border-radius: 0.000px'><img src='https://quip.com/blob/fEaAAAyb1sf/fMrsJRqqja30_4g2vIUx2Q?a=HbYoq0QmXzISwg3aL9dL3GfAeDPvYQ8O4ekvH3E8GeIa' style='transform: scale3d(1.000, 1.000, 1); -webkit-transform: scale3d(1.000, 1.000, 1); -ms-transform: scale3d(1.000, 1.000, 1); -moz-transform: scale3d(1.000, 1.000, 1)' id='fEaACAsyY5G' alt='' width='800' height='668' class='masked-image'></img></div></div><br/>
 
-<h2 id='fEaACANdDas'>UX Wireframe  </h2>
+<h2 id='fEaACANdDas'>UX Wireframe  </h2>
 
 <h3 id='fEaACA201MY'>Passenger requesting for a scheduled ride workflow</h3>
 
@@ -513,7 +499,7 @@ Metrics of the feature will be shown through google analytics. This will help us
 
 Lyft can track the following KPI’s<br/>
 
-<div data-section-style='5'><ul id='fEaACAEMGD0'><li id='fEaACAlRxml' class='' value='1'>How many users are actively using this feature. This will help understand if this feature is improving Lyft's  overall user growth.
+<div data-section-style='5'><ul id='fEaACAEMGD0'><li id='fEaACAlRxml' class='' value='1'>How many users are actively using this feature. This will help understand if this feature is improving Lyft's  overall user growth.
 
 <br/></li><li id='fEaACAOvy6D' class=''>How much time the user has spent per session on the specific feature?
 
@@ -531,10 +517,10 @@ Lyft can track the following KPI’s<br/>
 
 <br/>
 
- <br/>
+ <br/>
 
- <br/>
+ <br/>
 
- <br/>
+ <br/>
 
 </body></html>
